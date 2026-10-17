@@ -1,0 +1,804 @@
+{"mode": "call", "request": {"method": "echo", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": null}}
+{"mode": "call", "request": {"method": "echo", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 0}}
+{"mode": "call", "request": {"method": "echo", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": -1}}
+{"mode": "call", "request": {"method": "echo", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 2147483648}}
+{"mode": "call", "request": {"method": "echo", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 9007199254740993}}
+{"mode": "call", "request": {"method": "echo", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 9223372036854775807}}
+{"mode": "call", "request": {"method": "echo", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": -9223372036854775808}}
+{"mode": "call", "request": {"method": "echo", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00"}}
+{"mode": "call", "request": {"method": "echo", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": true}}
+{"mode": "call", "request": {"method": "echo", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": []}}
+{"mode": "call", "request": {"method": "echo", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": {"opaque": [1, null, "x"]}}}
+{"mode": "call", "request": {"method": "null-result", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": null}}
+{"mode": "call", "request": {"method": "null-result", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 0}}
+{"mode": "call", "request": {"method": "null-result", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": -1}}
+{"mode": "call", "request": {"method": "null-result", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 2147483648}}
+{"mode": "call", "request": {"method": "null-result", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 9007199254740993}}
+{"mode": "call", "request": {"method": "null-result", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 9223372036854775807}}
+{"mode": "call", "request": {"method": "null-result", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": -9223372036854775808}}
+{"mode": "call", "request": {"method": "null-result", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00"}}
+{"mode": "call", "request": {"method": "null-result", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": true}}
+{"mode": "call", "request": {"method": "null-result", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": []}}
+{"mode": "call", "request": {"method": "null-result", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": {"opaque": [1, null, "x"]}}}
+{"mode": "call", "request": {"method": "textual", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": null}}
+{"mode": "call", "request": {"method": "textual", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 0}}
+{"mode": "call", "request": {"method": "textual", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": -1}}
+{"mode": "call", "request": {"method": "textual", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 2147483648}}
+{"mode": "call", "request": {"method": "textual", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 9007199254740993}}
+{"mode": "call", "request": {"method": "textual", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 9223372036854775807}}
+{"mode": "call", "request": {"method": "textual", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": -9223372036854775808}}
+{"mode": "call", "request": {"method": "textual", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00"}}
+{"mode": "call", "request": {"method": "textual", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": true}}
+{"mode": "call", "request": {"method": "textual", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": []}}
+{"mode": "call", "request": {"method": "textual", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": {"opaque": [1, null, "x"]}}}
+{"mode": "call", "request": {"method": "textual-null", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": null}}
+{"mode": "call", "request": {"method": "textual-null", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 0}}
+{"mode": "call", "request": {"method": "textual-null", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": -1}}
+{"mode": "call", "request": {"method": "textual-null", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 2147483648}}
+{"mode": "call", "request": {"method": "textual-null", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 9007199254740993}}
+{"mode": "call", "request": {"method": "textual-null", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 9223372036854775807}}
+{"mode": "call", "request": {"method": "textual-null", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": -9223372036854775808}}
+{"mode": "call", "request": {"method": "textual-null", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00"}}
+{"mode": "call", "request": {"method": "textual-null", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": true}}
+{"mode": "call", "request": {"method": "textual-null", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": []}}
+{"mode": "call", "request": {"method": "textual-null", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": {"opaque": [1, null, "x"]}}}
+{"mode": "call", "request": {"method": "textual-cause", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": null}}
+{"mode": "call", "request": {"method": "textual-cause", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 0}}
+{"mode": "call", "request": {"method": "textual-cause", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": -1}}
+{"mode": "call", "request": {"method": "textual-cause", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 2147483648}}
+{"mode": "call", "request": {"method": "textual-cause", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 9007199254740993}}
+{"mode": "call", "request": {"method": "textual-cause", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 9223372036854775807}}
+{"mode": "call", "request": {"method": "textual-cause", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": -9223372036854775808}}
+{"mode": "call", "request": {"method": "textual-cause", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00"}}
+{"mode": "call", "request": {"method": "textual-cause", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": true}}
+{"mode": "call", "request": {"method": "textual-cause", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": []}}
+{"mode": "call", "request": {"method": "textual-cause", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": {"opaque": [1, null, "x"]}}}
+{"mode": "call", "request": {"method": "general", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": null}}
+{"mode": "call", "request": {"method": "general", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 0}}
+{"mode": "call", "request": {"method": "general", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": -1}}
+{"mode": "call", "request": {"method": "general", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 2147483648}}
+{"mode": "call", "request": {"method": "general", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 9007199254740993}}
+{"mode": "call", "request": {"method": "general", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 9223372036854775807}}
+{"mode": "call", "request": {"method": "general", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": -9223372036854775808}}
+{"mode": "call", "request": {"method": "general", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00"}}
+{"mode": "call", "request": {"method": "general", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": true}}
+{"mode": "call", "request": {"method": "general", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": []}}
+{"mode": "call", "request": {"method": "general", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": {"opaque": [1, null, "x"]}}}
+{"mode": "call", "request": {"method": "general-nested", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": null}}
+{"mode": "call", "request": {"method": "general-nested", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 0}}
+{"mode": "call", "request": {"method": "general-nested", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": -1}}
+{"mode": "call", "request": {"method": "general-nested", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 2147483648}}
+{"mode": "call", "request": {"method": "general-nested", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 9007199254740993}}
+{"mode": "call", "request": {"method": "general-nested", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 9223372036854775807}}
+{"mode": "call", "request": {"method": "general-nested", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": -9223372036854775808}}
+{"mode": "call", "request": {"method": "general-nested", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00"}}
+{"mode": "call", "request": {"method": "general-nested", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": true}}
+{"mode": "call", "request": {"method": "general-nested", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": []}}
+{"mode": "call", "request": {"method": "general-nested", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": {"opaque": [1, null, "x"]}}}
+{"mode": "call", "request": {"method": "permission", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": null}}
+{"mode": "call", "request": {"method": "permission", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 0}}
+{"mode": "call", "request": {"method": "permission", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": -1}}
+{"mode": "call", "request": {"method": "permission", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 2147483648}}
+{"mode": "call", "request": {"method": "permission", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 9007199254740993}}
+{"mode": "call", "request": {"method": "permission", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 9223372036854775807}}
+{"mode": "call", "request": {"method": "permission", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": -9223372036854775808}}
+{"mode": "call", "request": {"method": "permission", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00"}}
+{"mode": "call", "request": {"method": "permission", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": true}}
+{"mode": "call", "request": {"method": "permission", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": []}}
+{"mode": "call", "request": {"method": "permission", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": {"opaque": [1, null, "x"]}}}
+{"mode": "call", "request": {"method": "unknown", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": null}}
+{"mode": "call", "request": {"method": "unknown", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 0}}
+{"mode": "call", "request": {"method": "unknown", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": -1}}
+{"mode": "call", "request": {"method": "unknown", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 2147483648}}
+{"mode": "call", "request": {"method": "unknown", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 9007199254740993}}
+{"mode": "call", "request": {"method": "unknown", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 9223372036854775807}}
+{"mode": "call", "request": {"method": "unknown", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": -9223372036854775808}}
+{"mode": "call", "request": {"method": "unknown", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00"}}
+{"mode": "call", "request": {"method": "unknown", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": true}}
+{"mode": "call", "request": {"method": "unknown", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": []}}
+{"mode": "call", "request": {"method": "unknown", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": {"opaque": [1, null, "x"]}}}
+{"mode": "call", "request": {"method": "", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": null}}
+{"mode": "call", "request": {"method": "", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 0}}
+{"mode": "call", "request": {"method": "", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": -1}}
+{"mode": "call", "request": {"method": "", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 2147483648}}
+{"mode": "call", "request": {"method": "", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 9007199254740993}}
+{"mode": "call", "request": {"method": "", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": 9223372036854775807}}
+{"mode": "call", "request": {"method": "", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": -9223372036854775808}}
+{"mode": "call", "request": {"method": "", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00"}}
+{"mode": "call", "request": {"method": "", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": true}}
+{"mode": "call", "request": {"method": "", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": []}}
+{"mode": "call", "request": {"method": "", "arguments": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "tag": {"opaque": [1, null, "x"]}}}
+{"mode": "call", "request": {"method": null, "jsonrpc": "1.0"}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": "1.0", "arguments": null}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": null}}
+{"mode": "call", "request": {"method": {}, "jsonrpc": "1.0"}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": "1.0", "arguments": {}}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": {}}}
+{"mode": "call", "request": {"method": [], "jsonrpc": "1.0"}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": "1.0", "arguments": []}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": []}}
+{"mode": "call", "request": {"method": 1, "jsonrpc": "1.0"}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": "1.0", "arguments": 1}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": 1}}
+{"mode": "call", "request": {"method": true, "jsonrpc": "1.0"}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": "1.0", "arguments": true}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": true}}
+{"mode": "call", "request": {"method": "wrong", "jsonrpc": "1.0"}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": "1.0", "arguments": "wrong"}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": "wrong"}}
+{"mode": "call", "request": {"jsonrpc": null}}
+{"mode": "call", "request": null}
+{"mode": "call", "request": {"method": "echo", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": null, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "echo", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 0, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "echo", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": -1, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "echo", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 2147483648, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "echo", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 9007199254740993, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "echo", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 9223372036854775807, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "echo", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": -9223372036854775808, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "echo", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "echo", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": true, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "echo", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": [], "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "echo", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": {"opaque": [1, null, "x"]}, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "null_result", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": null, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "null_result", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 0, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "null_result", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": -1, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "null_result", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 2147483648, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "null_result", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 9007199254740993, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "null_result", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 9223372036854775807, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "null_result", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": -9223372036854775808, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "null_result", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "null_result", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": true, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "null_result", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": [], "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "null_result", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": {"opaque": [1, null, "x"]}, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": null, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 0, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": -1, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 2147483648, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 9007199254740993, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 9223372036854775807, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": -9223372036854775808, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": true, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": [], "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": {"opaque": [1, null, "x"]}, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_null", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": null, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_null", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 0, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_null", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": -1, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_null", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 2147483648, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_null", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 9007199254740993, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_null", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 9223372036854775807, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_null", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": -9223372036854775808, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_null", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_null", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": true, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_null", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": [], "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_null", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": {"opaque": [1, null, "x"]}, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_cause", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": null, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_cause", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 0, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_cause", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": -1, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_cause", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 2147483648, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_cause", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 9007199254740993, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_cause", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 9223372036854775807, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_cause", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": -9223372036854775808, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_cause", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_cause", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": true, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_cause", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": [], "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "textual_cause", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": {"opaque": [1, null, "x"]}, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": null, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 0, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": -1, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 2147483648, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 9007199254740993, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 9223372036854775807, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": -9223372036854775808, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": true, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": [], "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": {"opaque": [1, null, "x"]}, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general_nested", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": null, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general_nested", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 0, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general_nested", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": -1, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general_nested", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 2147483648, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general_nested", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 9007199254740993, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general_nested", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 9223372036854775807, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general_nested", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": -9223372036854775808, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general_nested", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general_nested", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": true, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general_nested", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": [], "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "general_nested", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": {"opaque": [1, null, "x"]}, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "permission", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": null, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "permission", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 0, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "permission", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": -1, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "permission", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 2147483648, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "permission", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 9007199254740993, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "permission", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 9223372036854775807, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "permission", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": -9223372036854775808, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "permission", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "permission", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": true, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "permission", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": [], "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "permission", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": {"opaque": [1, null, "x"]}, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "unknown", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": null, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "unknown", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 0, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "unknown", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": -1, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "unknown", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 2147483648, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "unknown", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 9007199254740993, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "unknown", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 9223372036854775807, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "unknown", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": -9223372036854775808, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "unknown", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "unknown", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": true, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "unknown", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": [], "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "unknown", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": {"opaque": [1, null, "x"]}, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": null, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 0, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": -1, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 2147483648, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 9007199254740993, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": 9223372036854775807, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": -9223372036854775808, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": true, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": [], "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "", "params": {"long": 9007199254740993, "text": "\u05d3\u05dc\u05ea caf\u00e9 \ud83d\ude00", "nested": [null, true, {"x": 1}]}, "id": {"opaque": [1, null, "x"]}, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": null, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": "2.0", "params": null}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": null}}
+{"mode": "call", "request": {"method": {}, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": "2.0", "params": {}}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": {}}}
+{"mode": "call", "request": {"method": [], "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": "2.0", "params": []}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": []}}
+{"mode": "call", "request": {"method": 1, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": "2.0", "params": 1}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": 1}}
+{"mode": "call", "request": {"method": true, "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": "2.0", "params": true}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": true}}
+{"mode": "call", "request": {"method": "wrong", "jsonrpc": "2.0"}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": "2.0", "params": "wrong"}}
+{"mode": "call", "request": {"method": "echo", "jsonrpc": "wrong"}}
+{"mode": "call", "request": {"jsonrpc": "2.0"}}
+{"mode": "call", "request": null}
+{"mode": "session", "path": "/transmission/rpc", "headers": {}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": ""}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": ""}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": ""}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": ""}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": ";=;"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": ";=;"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": ";=;"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/rpc", "headers": {"cookie": ";=;"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": ""}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": ""}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": ""}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": ""}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": ";=;"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": ";=;"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": ";=;"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/web/index.html", "headers": {"cookie": ";=;"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": ""}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": ""}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": ""}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": ""}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": ";=;"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": ";=;"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": ";=;"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission/", "headers": {"cookie": ";=;"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": ""}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": ""}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": ""}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": ""}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": ";=;"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": ";=;"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": ";=;"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmission", "headers": {"cookie": ";=;"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": ""}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": ""}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": ""}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": ""}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": ";=;"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": ";=;"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": ";=;"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/rpc", "headers": {"cookie": ";=;"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": ""}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": ""}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": ""}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": ""}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": ";=;"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": ";=;"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": ";=;"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/vuze/rpc", "headers": {"cookie": ";=;"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": ""}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": ""}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": ""}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": ""}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": ";=;"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": ";=;"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": ";=;"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/Transmission/rpc", "headers": {"cookie": ";=;"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"X-Transmission-Session-Id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"x-transmission-session-id": "wrong", "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"X-Transmission-Session-Id": "wrong", "x-transmission-session-id": "fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"x-transmission-session-id": null, "cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"x-vuze-is-tunnel": "true"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"x-transmission-session-id": " fixture-session "}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "other=1; X-Transmission-Session-Id = fixture-session ; end=2"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "X-Transmission-Session-Id=wrong; X-Transmission-Session-Id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "X-Transmission-Session-Id=\"fixture-session\""}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "X-Transmission-Session-Id="}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "X-Transmission-Session-Id=fixture-session=extra"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": "x-transmission-session-id=fixture-session"}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": ""}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": ""}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": ""}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": ""}, "cookie": true, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": ";=;"}, "cookie": false, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": ";=;"}, "cookie": false, "trusted": true}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": ";=;"}, "cookie": true, "trusted": false}
+{"mode": "session", "path": "/transmissionXYZ/rpc", "headers": {"cookie": ";=;"}, "cookie": true, "trusted": true}

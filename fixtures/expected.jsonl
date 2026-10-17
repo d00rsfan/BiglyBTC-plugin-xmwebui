@@ -1,0 +1,804 @@
+{"response":{"result":"success","arguments":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":false}},"status":"ok","calls":1}
+{"response":{"tag":0,"result":"success","arguments":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":false}},"status":"ok","calls":1}
+{"response":{"tag":-1,"result":"success","arguments":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":false}},"status":"ok","calls":1}
+{"response":{"tag":2147483648,"result":"success","arguments":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":false}},"status":"ok","calls":1}
+{"response":{"tag":9007199254740993,"result":"success","arguments":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":false}},"status":"ok","calls":1}
+{"response":{"tag":9223372036854775807,"result":"success","arguments":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":false}},"status":"ok","calls":1}
+{"response":{"tag":-9223372036854775808,"result":"success","arguments":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":false}},"status":"ok","calls":1}
+{"response":{"tag":"דלת café 😀","result":"success","arguments":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":false}},"status":"ok","calls":1}
+{"response":{"tag":true,"result":"success","arguments":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":false}},"status":"ok","calls":1}
+{"response":{"tag":[],"result":"success","arguments":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":false}},"status":"ok","calls":1}
+{"response":{"tag":{"opaque":[1,null,"x"]},"result":"success","arguments":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":false}},"status":"ok","calls":1}
+{"response":{"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":0,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":-1,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":2147483648,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":9007199254740993,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":9223372036854775807,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":-9223372036854775808,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":"דלת café 😀","result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":true,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":[],"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":{"opaque":[1,null,"x"]},"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"result":"bad torrent"},"status":"ok","calls":1}
+{"response":{"result":"bad torrent","tag":0},"status":"ok","calls":1}
+{"response":{"result":"bad torrent","tag":-1},"status":"ok","calls":1}
+{"response":{"result":"bad torrent","tag":2147483648},"status":"ok","calls":1}
+{"response":{"result":"bad torrent","tag":9007199254740993},"status":"ok","calls":1}
+{"response":{"result":"bad torrent","tag":9223372036854775807},"status":"ok","calls":1}
+{"response":{"result":"bad torrent","tag":-9223372036854775808},"status":"ok","calls":1}
+{"response":{"result":"bad torrent","tag":"דלת café 😀"},"status":"ok","calls":1}
+{"response":{"result":"bad torrent","tag":true},"status":"ok","calls":1}
+{"response":{"result":"bad torrent","tag":[]},"status":"ok","calls":1}
+{"response":{"result":"bad torrent","tag":{"opaque":[1,null,"x"]}},"status":"ok","calls":1}
+{"response":{"result":null},"status":"ok","calls":1}
+{"response":{"result":null,"tag":0},"status":"ok","calls":1}
+{"response":{"result":null,"tag":-1},"status":"ok","calls":1}
+{"response":{"result":null,"tag":2147483648},"status":"ok","calls":1}
+{"response":{"result":null,"tag":9007199254740993},"status":"ok","calls":1}
+{"response":{"result":null,"tag":9223372036854775807},"status":"ok","calls":1}
+{"response":{"result":null,"tag":-9223372036854775808},"status":"ok","calls":1}
+{"response":{"result":null,"tag":"דלת café 😀"},"status":"ok","calls":1}
+{"response":{"result":null,"tag":true},"status":"ok","calls":1}
+{"response":{"result":null,"tag":[]},"status":"ok","calls":1}
+{"response":{"result":null,"tag":{"opaque":[1,null,"x"]}},"status":"ok","calls":1}
+{"response":{"result":"bad torrent","cause":"java.io.IOException: disk\nline"},"status":"ok","calls":1}
+{"response":{"cause":"java.io.IOException: disk\nline","tag":0,"result":"bad torrent"},"status":"ok","calls":1}
+{"response":{"cause":"java.io.IOException: disk\nline","tag":-1,"result":"bad torrent"},"status":"ok","calls":1}
+{"response":{"cause":"java.io.IOException: disk\nline","tag":2147483648,"result":"bad torrent"},"status":"ok","calls":1}
+{"response":{"cause":"java.io.IOException: disk\nline","tag":9007199254740993,"result":"bad torrent"},"status":"ok","calls":1}
+{"response":{"cause":"java.io.IOException: disk\nline","tag":9223372036854775807,"result":"bad torrent"},"status":"ok","calls":1}
+{"response":{"cause":"java.io.IOException: disk\nline","tag":-9223372036854775808,"result":"bad torrent"},"status":"ok","calls":1}
+{"response":{"cause":"java.io.IOException: disk\nline","tag":"דלת café 😀","result":"bad torrent"},"status":"ok","calls":1}
+{"response":{"cause":"java.io.IOException: disk\nline","tag":true,"result":"bad torrent"},"status":"ok","calls":1}
+{"response":{"cause":"java.io.IOException: disk\nline","tag":[],"result":"bad torrent"},"status":"ok","calls":1}
+{"response":{"cause":"java.io.IOException: disk\nline","tag":{"opaque":[1,null,"x"]},"result":"bad torrent"},"status":"ok","calls":1}
+{"response":{"result":"error: IllegalArgumentException: bad argument"},"status":"ok","calls":1}
+{"response":{"result":"error: IllegalArgumentException: bad argument","tag":0},"status":"ok","calls":1}
+{"response":{"result":"error: IllegalArgumentException: bad argument","tag":-1},"status":"ok","calls":1}
+{"response":{"result":"error: IllegalArgumentException: bad argument","tag":2147483648},"status":"ok","calls":1}
+{"response":{"result":"error: IllegalArgumentException: bad argument","tag":9007199254740993},"status":"ok","calls":1}
+{"response":{"result":"error: IllegalArgumentException: bad argument","tag":9223372036854775807},"status":"ok","calls":1}
+{"response":{"result":"error: IllegalArgumentException: bad argument","tag":-9223372036854775808},"status":"ok","calls":1}
+{"response":{"result":"error: IllegalArgumentException: bad argument","tag":"דלת café 😀"},"status":"ok","calls":1}
+{"response":{"result":"error: IllegalArgumentException: bad argument","tag":true},"status":"ok","calls":1}
+{"response":{"result":"error: IllegalArgumentException: bad argument","tag":[]},"status":"ok","calls":1}
+{"response":{"result":"error: IllegalArgumentException: bad argument","tag":{"opaque":[1,null,"x"]}},"status":"ok","calls":1}
+{"response":{"result":"error: IOException: outer, IllegalStateException: inner"},"status":"ok","calls":1}
+{"response":{"result":"error: IOException: outer, IllegalStateException: inner","tag":0},"status":"ok","calls":1}
+{"response":{"result":"error: IOException: outer, IllegalStateException: inner","tag":-1},"status":"ok","calls":1}
+{"response":{"result":"error: IOException: outer, IllegalStateException: inner","tag":2147483648},"status":"ok","calls":1}
+{"response":{"result":"error: IOException: outer, IllegalStateException: inner","tag":9007199254740993},"status":"ok","calls":1}
+{"response":{"result":"error: IOException: outer, IllegalStateException: inner","tag":9223372036854775807},"status":"ok","calls":1}
+{"response":{"result":"error: IOException: outer, IllegalStateException: inner","tag":-9223372036854775808},"status":"ok","calls":1}
+{"response":{"result":"error: IOException: outer, IllegalStateException: inner","tag":"דלת café 😀"},"status":"ok","calls":1}
+{"response":{"result":"error: IOException: outer, IllegalStateException: inner","tag":true},"status":"ok","calls":1}
+{"response":{"result":"error: IOException: outer, IllegalStateException: inner","tag":[]},"status":"ok","calls":1}
+{"response":{"result":"error: IOException: outer, IllegalStateException: inner","tag":{"opaque":[1,null,"x"]}},"status":"ok","calls":1}
+{"calls":1,"status":"permission"}
+{"calls":1,"status":"permission"}
+{"calls":1,"status":"permission"}
+{"calls":1,"status":"permission"}
+{"calls":1,"status":"permission"}
+{"calls":1,"status":"permission"}
+{"calls":1,"status":"permission"}
+{"calls":1,"status":"permission"}
+{"calls":1,"status":"permission"}
+{"calls":1,"status":"permission"}
+{"calls":1,"status":"permission"}
+{"response":{"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":0,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":-1,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":2147483648,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":9007199254740993,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":9223372036854775807,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":-9223372036854775808,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":"דלת café 😀","result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":true,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":[],"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":{"opaque":[1,null,"x"]},"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":0,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":-1,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":2147483648,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":9007199254740993,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":9223372036854775807,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":-9223372036854775808,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":"דלת café 😀","result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":true,"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":[],"result":"success","arguments":{}},"status":"ok","calls":1}
+{"response":{"tag":{"opaque":[1,null,"x"]},"result":"success","arguments":{}},"status":"ok","calls":1}
+{"status":"io","calls":0,"message":"'method' missing"}
+{"response":{"result":"success","arguments":{"method":"echo","args":{},"session":"fixture-session","jrpc2":false}},"status":"ok","calls":1}
+{"response":{"result":"success","arguments":{"method":"echo","args":{},"session":"fixture-session","jrpc2":false}},"status":"ok","calls":1}
+{"calls":0,"status":"cast"}
+{"response":{"result":"success","arguments":{"method":"echo","args":{},"session":"fixture-session","jrpc2":false}},"status":"ok","calls":1}
+{"calls":0,"status":"cast"}
+{"calls":0,"status":"cast"}
+{"calls":0,"status":"cast"}
+{"calls":0,"status":"cast"}
+{"calls":0,"status":"cast"}
+{"calls":0,"status":"cast"}
+{"calls":0,"status":"cast"}
+{"calls":0,"status":"cast"}
+{"calls":0,"status":"cast"}
+{"calls":0,"status":"cast"}
+{"response":{"result":"success","arguments":{}},"status":"ok","calls":1}
+{"calls":0,"status":"cast"}
+{"response":{"result":"success","arguments":{"method":"echo","args":{},"session":"fixture-session","jrpc2":false}},"status":"ok","calls":1}
+{"status":"io","calls":0,"message":"'method' missing"}
+{"response":{"result":"error: Bad or missing JSON string"},"status":"ok","calls":0}
+{"response":{"result":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":true},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":0,"result":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":true},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":-1,"result":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":true},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":2147483648,"result":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":true},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":9007199254740993,"result":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":true},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":9223372036854775807,"result":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":true},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":-9223372036854775808,"result":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":true},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":"דלת café 😀","result":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":true},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":true,"result":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":true},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":[],"result":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":true},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":{"opaque":[1,null,"x"]},"result":{"method":"echo","args":{"long":9007199254740993,"text":"דלת café 😀","nested":[null,true,{"x":1}]},"session":"fixture-session","jrpc2":true},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":0,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":-1,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":2147483648,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":9007199254740993,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":9223372036854775807,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":-9223372036854775808,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":"דלת café 😀","result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":true,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":[],"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":{"opaque":[1,null,"x"]},"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent"},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent"},"id":0,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent"},"id":-1,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent"},"id":2147483648,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent"},"id":9007199254740993,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent"},"id":9223372036854775807,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent"},"id":-9223372036854775808,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent"},"id":"דלת café 😀","jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent"},"id":true,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent"},"id":[],"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent"},"id":{"opaque":[1,null,"x"]},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":null},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":null},"id":0,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":null},"id":-1,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":null},"id":2147483648,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":null},"id":9007199254740993,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":null},"id":9223372036854775807,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":null},"id":-9223372036854775808,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":null},"id":"דלת café 😀","jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":null},"id":true,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":null},"id":[],"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":null},"id":{"opaque":[1,null,"x"]},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent\/java.io.IOException: disk\nline"},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent\/java.io.IOException: disk\nline"},"id":0,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent\/java.io.IOException: disk\nline"},"id":-1,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent\/java.io.IOException: disk\nline"},"id":2147483648,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent\/java.io.IOException: disk\nline"},"id":9007199254740993,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent\/java.io.IOException: disk\nline"},"id":9223372036854775807,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent\/java.io.IOException: disk\nline"},"id":-9223372036854775808,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent\/java.io.IOException: disk\nline"},"id":"דלת café 😀","jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent\/java.io.IOException: disk\nline"},"id":true,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent\/java.io.IOException: disk\nline"},"id":[],"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"code":1,"message":"bad torrent\/java.io.IOException: disk\nline"},"id":{"opaque":[1,null,"x"]},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IllegalArgumentException: bad argument"},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IllegalArgumentException: bad argument"},"id":0,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IllegalArgumentException: bad argument"},"id":-1,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IllegalArgumentException: bad argument"},"id":2147483648,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IllegalArgumentException: bad argument"},"id":9007199254740993,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IllegalArgumentException: bad argument"},"id":9223372036854775807,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IllegalArgumentException: bad argument"},"id":-9223372036854775808,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IllegalArgumentException: bad argument"},"id":"דלת café 😀","jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IllegalArgumentException: bad argument"},"id":true,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IllegalArgumentException: bad argument"},"id":[],"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IllegalArgumentException: bad argument"},"id":{"opaque":[1,null,"x"]},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IOException: outer, IllegalStateException: inner"},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IOException: outer, IllegalStateException: inner"},"id":0,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IOException: outer, IllegalStateException: inner"},"id":-1,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IOException: outer, IllegalStateException: inner"},"id":2147483648,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IOException: outer, IllegalStateException: inner"},"id":9007199254740993,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IOException: outer, IllegalStateException: inner"},"id":9223372036854775807,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IOException: outer, IllegalStateException: inner"},"id":-9223372036854775808,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IOException: outer, IllegalStateException: inner"},"id":"דלת café 😀","jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IOException: outer, IllegalStateException: inner"},"id":true,"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IOException: outer, IllegalStateException: inner"},"id":[],"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"error":{"message":"IOException: outer, IllegalStateException: inner"},"id":{"opaque":[1,null,"x"]},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"calls":1,"status":"permission"}
+{"calls":1,"status":"permission"}
+{"calls":1,"status":"permission"}
+{"calls":1,"status":"permission"}
+{"calls":1,"status":"permission"}
+{"calls":1,"status":"permission"}
+{"calls":1,"status":"permission"}
+{"calls":1,"status":"permission"}
+{"calls":1,"status":"permission"}
+{"calls":1,"status":"permission"}
+{"calls":1,"status":"permission"}
+{"response":{"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":0,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":-1,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":2147483648,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":9007199254740993,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":9223372036854775807,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":-9223372036854775808,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":"דלת café 😀","result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":true,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":[],"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":{"opaque":[1,null,"x"]},"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":0,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":-1,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":2147483648,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":9007199254740993,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":9223372036854775807,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":-9223372036854775808,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":"דלת café 😀","result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":true,"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":[],"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"id":{"opaque":[1,null,"x"]},"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"status":"io","calls":0,"message":"'method' missing"}
+{"response":{"result":{"method":"echo","args":{},"session":"fixture-session","jrpc2":true},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"response":{"result":"success","arguments":{"method":"echo","args":{},"session":"fixture-session","jrpc2":false}},"status":"ok","calls":1}
+{"calls":0,"status":"cast"}
+{"response":{"result":{"method":"echo","args":{},"session":"fixture-session","jrpc2":true},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"calls":0,"status":"cast"}
+{"calls":0,"status":"cast"}
+{"calls":0,"status":"cast"}
+{"calls":0,"status":"cast"}
+{"calls":0,"status":"cast"}
+{"calls":0,"status":"cast"}
+{"calls":0,"status":"cast"}
+{"calls":0,"status":"cast"}
+{"calls":0,"status":"cast"}
+{"calls":0,"status":"cast"}
+{"response":{"result":{},"jsonrpc":"2.0"},"status":"ok","calls":1}
+{"calls":0,"status":"cast"}
+{"response":{"result":"success","arguments":{"method":"echo","args":{},"session":"fixture-session","jrpc2":false}},"status":"ok","calls":1}
+{"status":"io","calls":0,"message":"'method' missing"}
+{"response":{"result":"error: Bad or missing JSON string"},"status":"ok","calls":0}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":false}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
+{"valid":true}
