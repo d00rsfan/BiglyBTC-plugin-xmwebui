@@ -35,3 +35,11 @@ reset. Inputs must include the ordered active and archived stub snapshot. The
 model holds at most 100,000 torrents and uses a bounded ordered set for duplicate
 checking. It opens no files. Durable attribute/counter binding and a cross-file
 journal must precede real host activation; preview/apply alone is not that journal.
+
+## Continuous integration
+
+The workflow is [`.github/workflows/compatibility.yml`](.github/workflows/compatibility.yml). [View runs](https://github.com/d00rsfan/BiglyBTC-plugin-xmwebui/actions).
+
+Start it manually from **Actions → Run workflow** (or `gh workflow run compatibility.yml -R d00rsfan/BiglyBTC-plugin-xmwebui`). It requires a separately provisioned Linux x64 runner with labels `self-hosted`, `Linux`, `X64`, and `biglybtc-linux`, plus the pinned toolchain and dependencies used by the recipe. Registering the workflow does not provision that runner; a run stays queued until a matching runner is online. It does not run on pull requests.
+
+For future workflow changes, push using this repository's SSH URL (`git@github.com:d00rsfan/BiglyBTC-plugin-xmwebui.git`). HTTPS pushes authenticated with an OAuth token require the additional `workflow` scope to add or update workflow files. Viewing public Actions runs does not require that scope.
