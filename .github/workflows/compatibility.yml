@@ -1,41 +1,65 @@
-name: 'RPC contract and identities offline compatibility'
+name: RPC contract and identities offline compatibility
 on:
+  push:
+    branches: [main]
+  pull_request:
   workflow_dispatch:
 permissions:
   contents: read
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
 jobs:
   compatibility:
-    runs-on: [self-hosted, Linux, X64, biglybtc-linux]
-    timeout-minutes: 20
+    runs-on: ubuntu-26.04
+    timeout-minutes: 30
     strategy:
       max-parallel: 1
       fail-fast: false
       matrix:
-        compiler: [gcc, clang, asan]
+        compiler: [gcc, asan]
     env:
       TMPDIR: /tmp
       ASAN_OPTIONS: detect_leaks=1:abort_on_error=1
-      ASAN_SYMBOLIZER_PATH: /usr/lib/llvm-24/bin/llvm-symbolizer
+      UBSAN_OPTIONS: halt_on_error=1:print_stacktrace=1
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           persist-credentials: false
+      - name: Install pinned compiler and Qt6.12.0 Core
+        shell: bash
+        run: |
+          set -euo pipefail
+          bash ci/hosted-preview-dependencies.sh --install qt-core "$RUNNER_TEMP/biglybtc-rpc-dependencies"
+          sudo apt-get install --yes --no-install-recommends cmake=4.2.3-2ubuntu2 ninja-build=1.13.2-1
       - name: Compile and replay offline original observations
         shell: bash
         env:
           COMPILER_KIND: ${{ matrix.compiler }}
         run: |
+          set -euo pipefail
           build_type=Release
-          compiler=/usr/bin/g++-16
           flags=
-          if [[ "$COMPILER_KIND" != gcc ]]; then
-            compiler=/usr/lib/llvm-24/bin/clang++
-            flags=--gcc-install-dir=/usr/lib/gcc/x86_64-linux-gnu/16
-          fi
           if [[ "$COMPILER_KIND" == asan ]]; then
             build_type=Debug
-            flags="$flags -fsanitize=address,undefined -fno-omit-frame-pointer"
+            flags="-fsanitize=address,undefined -fno-omit-frame-pointer"
           fi
-          cmake -S . -B "$RUNNER_TEMP/biglybtc-rpc-$COMPILER_KIND" -G Ninja -DCMAKE_BUILD_TYPE="$build_type" -DCMAKE_CXX_COMPILER="$compiler" -DCMAKE_CXX_FLAGS="$flags" -DCMAKE_PREFIX_PATH=/opt/Qt/6.12.0/gcc_64
-          nice -n 5 cmake --build "$RUNNER_TEMP/biglybtc-rpc-$COMPILER_KIND" -j2
-          ctest --test-dir "$RUNNER_TEMP/biglybtc-rpc-$COMPILER_KIND" --output-on-failure
+          /usr/bin/cmake -S . -B "$RUNNER_TEMP/biglybtc-rpc-$COMPILER_KIND" -G Ninja -DCMAKE_BUILD_TYPE="$build_type" -DCMAKE_CXX_COMPILER="$BIGLYBTC_CXX" -DCMAKE_CXX_FLAGS="$flags" -DCMAKE_PREFIX_PATH="$BIGLYBTC_QT_PREFIX"
+          nice -n 5 /usr/bin/cmake --build "$RUNNER_TEMP/biglybtc-rpc-$COMPILER_KIND" -j2
+          /usr/bin/ctest --test-dir "$RUNNER_TEMP/biglybtc-rpc-$COMPILER_KIND" --output-on-failure
+      - name: Preserve build, test, and dependency evidence
+        if: always()
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: rpc-ubuntu-26.04-${{ matrix.compiler }}
+          path: |
+            ${{ runner.temp }}/biglybtc-rpc-${{ matrix.compiler }}/CMakeCache.txt
+            ${{ runner.temp }}/biglybtc-rpc-${{ matrix.compiler }}/Testing/Temporary
+            ${{ runner.temp }}/biglybtc-rpc-dependencies/*.txt
+            ${{ runner.temp }}/biglybtc-rpc-dependencies/*.tsv
+            ${{ runner.temp }}/biglybtc-rpc-dependencies/*.log
+            ${{ runner.temp }}/biglybtc-rpc-dependencies/*.env
+            ${{ runner.temp }}/biglybtc-rpc-dependencies/qt-archives-SHA256SUMS
+            ${{ runner.temp }}/biglybtc-rpc-dependencies/qt-Updates*.xml
+          if-no-files-found: warn
+          retention-days: 7

@@ -9,7 +9,7 @@
     ".gitignore": "ef2d3a662976b2c26a55d13b98b4be552bc693a37d446e8f29db5ea5b32a3b90",
     "CMakeLists.txt": "134e296012e0fe9850665e0850e980d7c049bd104c41708484992aced21bebdb",
     "COPYING": "edaef632cbb643e4e7a221717a6c441a4c1a7c918e6e4d56debc3d8739b233f6",
-    "README.md": "8d4f096e8ee7d5f9f58cd854af45f6d6a8b7afdb555ceeec90a2d6afa3bdb803",
+    "README.md": "8a8393d0aa2f80c43ad6340ee1f51a53e5acb25bb9b96613e107dbfeb67a4989",
     "bounds_test.cpp": "941d90b6ebbe255e2823dfee8f849083957ba12c841f415363c5db34f062abb2",
     "contract_driver.cpp": "e73e996d84297d86dc05ae6125b45f638a9c2d22c68c2a837b21b48433e015ba",
     "fixture_test.py": "0a3176bc0cbd46b109cbb5979f6af99641f8ed55eaf33756270f8b4a12054bdd",
@@ -30,7 +30,8 @@
     "identity-fixtures/commands.jsonl": "b3dc03639bf10f6b18fee7daa31878f657c6a4d589c9f306c2e332768ac00edb",
     "identity-fixtures/expected.jsonl": "7a7ab6e27fb72cf6a1b1295ca6e4dc19d051e18948a8eae5798cab5d89e3d021",
     "identity-fixtures/manifest.json": "d68a0608609934cf22c6be0f7a0218b7f4e449ab38721a9a520a24fc6ae0e104",
-    ".github/workflows/compatibility.yml": "057009360afc0f86da85613ce8065f4e5209851ba4e0369ffa13da2ef56f9795"
+    ".github/workflows/compatibility.yml": "b7f234b3a49f97fee4febd361838b4db18dd7d3b7a82fd2db4720483a40c3180",
+    "ci/hosted-preview-dependencies.sh": "32af91ec7a551667fb5b558558b80929d14480bbb3d22252d33f21f4ce2f4066"
   },
   "ci_activation": {
     "date": "2026-10-18",
@@ -40,5 +41,25 @@
     "runner": "self-hosted Linux X64 biglybtc-linux",
     "mode": "workflow_dispatch",
     "note": "Workflow registered; this manifest does not assert a successful remote run."
+  },
+  "hosted_ci": {
+    "runner": "ubuntu-26.04",
+    "architecture": "amd64",
+    "compiler_package": "16-20260322-1ubuntu1",
+    "lanes": [
+      "gcc-release",
+      "gcc-asan-debug"
+    ],
+    "Qt": "6.12.0",
+    "source_and_fixture_bytes_unchanged": true,
+    "dependency_bootstrap": {
+      "copied_from": "migration/tools/hosted_preview_dependencies.sh",
+      "sha256": "32af91ec7a551667fb5b558558b80929d14480bbb3d22252d33f21f4ce2f4066",
+      "mode": "qt-core",
+      "local_root_review_accepted": true,
+      "root_source_commit": null
+    },
+    "dependency_limits": "Installer wheel and Qt metadata pinned; normal archive checksum validation; OS/Python transitive versions recorded, not fully locked",
+    "scope": "Hosted offline compatibility only; no release/full-plugin or additional distro qualification"
   }
 }
